@@ -1,0 +1,10 @@
+/* This is the max width of the screen and above that, the id will display none. */
+@media screen and (max-width: 1200px) {
+    #desktop-nav {
+        display: none;
+    }
+    #hamburger-nav {
+        display: flex;
+    }
+}
+
